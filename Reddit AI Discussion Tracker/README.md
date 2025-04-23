@@ -2,6 +2,8 @@
 
 A web application that tracks and summarizes AI-related discussions from Reddit.
 
+image.png
+
 ## Features
 - Browse AI-related subreddits (r/openai, r/ai, r/cursor, etc.)
 - View post summaries and discussions
